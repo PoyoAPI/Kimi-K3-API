@@ -6,7 +6,7 @@ Use Kimi K3 for long-context chat, coding, and agent workloads through PoYo's Op
 
 **Answer:** To use the Kimi K3 API, send a server-side request to `POST https://api.poyo.ai/v1/chat/completions` with model `kimi-k3` and a PoYo API key. The examples in this repository are runnable with Node.js 22+ or cURL.
 
-Last verified against the live PoYo schema and pricing on **August 9, 2026**.
+Last verified against the live PoYo schema and pricing on **November 16, 2026**.
 
 ## Quickstart
 
