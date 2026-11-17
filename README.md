@@ -1,6 +1,6 @@
 # Kimi K3 API: runnable cURL and Node.js examples
 
-[![PoYo model page](https://img.shields.io/badge/Try%20on%20PoYo-kimi--k3--api-84cc16)](https://poyo.ai/models/kimi-k3) [![API docs](https://img.shields.io/badge/API-docs-22d3ee)](https://docs.poyo.ai/api-manual/chat-series/chat-completions) [![Check](https://github.com/PoyoAPI/kimi-k3-api/actions/workflows/check.yml/badge.svg)](https://github.com/PoyoAPI/kimi-k3-api/actions/workflows/check.yml)
+[![PoYo model page](https://img.shields.io/badge/Try%20on%20PoYo-kimi--k3--api-84cc16)](https://poyo.ai/models/kimi-k3) [![API docs](https://img.shields.io/badge/API-docs-22d3ee)](https://docs.poyo.ai/api-manual/chat-series/chat-completions) [![Check](https://github.com/PoyoAPI/Kimi-K3-API/actions/workflows/check.yml/badge.svg)](https://github.com/PoyoAPI/Kimi-K3-API/actions/workflows/check.yml)
 
 Use Kimi K3 for long-context chat, coding, and agent workloads through PoYo's OpenAI-compatible chat endpoint.
 
